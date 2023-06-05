@@ -1,2 +1,2 @@
 # html-css-simply-gallery
-HTML ve CSS ile basit araba galerisi web sitesi örneği
+HTML ve CSS ile basit online eğitim web sitesi örneği
